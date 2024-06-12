@@ -1,8 +1,0 @@
-front end:html,css,js-angular,react,view
-back end:core java,jsp,(spring boot,hybernate,sarvelets)ide-eclipse or visual
-tools:maven and Jenkins
-version control git
-microservices : rest api
-database :NoSQL -mangodb
-          sql-mysql
-cloud:AWS or Azure
